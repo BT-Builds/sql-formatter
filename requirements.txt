@@ -1,6 +1,4 @@
 fastapi
-mangum
-pydantic
-python-multipart
-sqlparse
 uvicorn
+pydantic
+mangum
