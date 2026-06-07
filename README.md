@@ -41,3 +41,7 @@ Include `Authorization: Bearer ***` header. Free tier: 100 requests/hour.
 - Standardize SQL formatting across teams
 - SQL linting in CI/CD pipelines
 - Format SQL in admin panels or dashboards
+
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/sql-formatter/main/postman_collection.json)
